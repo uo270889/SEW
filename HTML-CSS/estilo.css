@@ -1,0 +1,57 @@
+/*001*/
+body{
+    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+    line-height: 1.8;
+    color:white;
+    background-color:black ;
+  
+}
+/*001*/
+h1{
+    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+    line-height: 1.8;
+    color:white;
+    background-color:black ;
+    padding: 25px 25px;
+    text-align: center;
+}
+/*001*/
+h2{
+    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+    line-height: 1.8;
+    color:white;
+    background-color:black ;
+    
+    padding: 25px 25px;
+}
+/*001*/
+h3 {
+    background-color:black; 
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 25px 25px;    
+}
+/*001*/
+p{
+    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+    line-height: 1.8;
+    color:white;
+    background-color:black ;
+    text-align: justify;
+}
+/*001*/
+table {
+    background-color:white; 
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    width: 100%;
+    border: 5px solid black;
+}
+/*001*/
+th,
+/*001*/
+td{
+  border: 5px solid black ;
+}
