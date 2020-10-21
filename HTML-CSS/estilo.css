@@ -1,6 +1,6 @@
 /*001*/
 body{
-    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+    font: 400 0.938em Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
     color:white;
     background-color:black ;
@@ -8,21 +8,21 @@ body{
 }
 /*001*/
 h1{
-    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+    font: 400 0.938em Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
     color:white;
     background-color:black ;
-    padding: 25px 25px;
+    padding: 1.563em 1.563em;
     text-align: center;
 }
 /*001*/
 h2{
-    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+    font: 400 0.938em Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
     color:white;
     background-color:black ;
     
-    padding: 25px 25px;
+    padding: 1.563em 1.563em;
 }
 /*001*/
 h3 {
@@ -30,11 +30,11 @@ h3 {
     background-color:black ;
     text-transform: uppercase;
     text-align: center;
-    padding: 25px 25px;    
+    padding: 1.563em 1.563em;    
 }
 /*001*/
 p{
-    font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
+    font: 400 0.938em Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
     color:white;
     background-color:black ;
@@ -47,11 +47,11 @@ table {
     text-transform: uppercase;
     text-align: center;
     width: 100%;
-    border: 5px solid rgb(12, 91, 194);
+    border: 0.313em solid rgb(12, 91, 194);
 }
 /*001*/
 th,
 /*001*/
 td{
-  border: 5px solid rgb(12, 91, 194) ;
+  border: 0.313em solid rgb(12, 91, 194) ;
 }
