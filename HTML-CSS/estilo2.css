@@ -1,24 +1,6 @@
-/*100*/
-#Foto1 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;   
-}
-/*100*/
-#foto2 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;   
-}
-/*100*/
-#foto3 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;   
-}
-/*100*/
-#foto4 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;   
+img{
+    padding-left: 25.00em;
+    padding-top: 2.00em;
+    padding-bottom: 1.00em;
+    padding-right: 5.00em;
 }
