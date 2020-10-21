@@ -2,16 +2,16 @@
 body{
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
-    color:white;
-    background-color:black ;
+    color:black;
+    background-color:rgb(94, 243, 156) ;
   
 }
 /*001*/
 h1{
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
-    color:white;
-    background-color:black ;
+    color:black;
+    background-color:rgb(94, 243, 156) ;
     padding: 25px 25px;
     text-align: center;
 }
@@ -19,15 +19,15 @@ h1{
 h2{
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
-    color:white;
-    background-color:black ;
+    color:black;
+    background-color:rgb(94, 243, 156) ;
     
     padding: 25px 25px;
 }
 /*001*/
 h3 {
-    background-color:black; 
-    color: white;
+    background-color:rgb(94, 243, 156); 
+    color: black;
     text-transform: uppercase;
     text-align: center;
     padding: 25px 25px;    
@@ -36,22 +36,22 @@ h3 {
 p{
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
-    color:white;
-    background-color:black ;
+    color:black;
+    background-color:rgb(94, 243, 156) ;
     text-align: justify;
 }
 /*001*/
 table {
-    background-color:white; 
-    color: black;
+    background-color:black; 
+    color: rgb(94, 243, 156);
     text-transform: uppercase;
     text-align: center;
     width: 100%;
-    border: 5px solid black;
+    border: 5px solid rgb(94, 243, 156);
 }
 /*001*/
 th,
 /*001*/
 td{
-  border: 5px solid black ;
+  border: 5px solid rgb(19, 148, 235) ;
 }
