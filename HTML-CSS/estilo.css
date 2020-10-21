@@ -17,7 +17,7 @@ h1{
 }
 /*001*/
 h2{
-    
+    font: 400 1.5em Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
     color:white;
     background-color:black ;
