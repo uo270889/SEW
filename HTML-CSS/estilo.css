@@ -1,6 +1,6 @@
 /*001*/
 body{
-    font: 400 0.938em Tahoma,sans-serif; /*Familia sans-serif*/
+    font: 400 1.1em Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
     color:white;
     background-color:black ;
@@ -8,7 +8,7 @@ body{
 }
 /*001*/
 h1{
-    font: 400 0.938em Tahoma,sans-serif; /*Familia sans-serif*/
+   
     line-height: 1.8;
     color:white;
     background-color:black ;
@@ -17,7 +17,7 @@ h1{
 }
 /*001*/
 h2{
-    font: 400 0.938em Tahoma,sans-serif; /*Familia sans-serif*/
+    
     line-height: 1.8;
     color:white;
     background-color:black ;
@@ -34,7 +34,7 @@ h3 {
 }
 /*001*/
 p{
-    font: 400 0.938em Tahoma,sans-serif; /*Familia sans-serif*/
+    
     line-height: 1.8;
     color:white;
     background-color:black ;
