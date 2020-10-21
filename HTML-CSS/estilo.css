@@ -2,16 +2,16 @@
 body{
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
-    color:black;
-    background-color:white ;
+    color:white;
+    background-color:black ;
   
 }
 /*001*/
 h1{
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
-    color:black;
-    background-color:white;
+    color:white;
+    background-color:black ;
     padding: 25px 25px;
     text-align: center;
 }
@@ -19,15 +19,15 @@ h1{
 h2{
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
-    color:black;
-    background-color:white ;
+    color:white;
+    background-color:black ;
     
     padding: 25px 25px;
 }
 /*001*/
 h3 {
-    background-color: white; 
-    color: black;
+    color:white;
+    background-color:black ;
     text-transform: uppercase;
     text-align: center;
     padding: 25px 25px;    
@@ -36,14 +36,14 @@ h3 {
 p{
     font: 400 15px Tahoma,sans-serif; /*Familia sans-serif*/
     line-height: 1.8;
-    color:black;
-    background-color:white ;
+    color:white;
+    background-color:black ;
     text-align: justify;
 }
 /*001*/
 table {
-    background-color:white; 
-    color:black;
+    color:white;
+    background-color:black ;
     text-transform: uppercase;
     text-align: center;
     width: 100%;
