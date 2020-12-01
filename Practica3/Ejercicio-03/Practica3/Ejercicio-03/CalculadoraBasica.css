@@ -1,0 +1,76 @@
+/*010*/
+.calculadora{
+  display: grid;
+  margin: 0.125em;
+  padding: 1em;
+  background-color: rgb(108, 194, 209);
+  width: 15em;
+  height: 25.5em;
+  border-radius: 0.625em;
+}
+/*012*/
+.calculadora button{
+  width: 3.5em;
+  height: 2.5em;
+  margin-right: 0.1em;
+  background-color: rgb(36, 51, 187);
+  color: white;
+}
+#igual{
+  width: 2.2em;
+  height: 1.5em;
+  font-size: 1.6em;
+  margin-right: 0.1em;
+  background-color: rgb(40, 148, 85);
+}
+#pantalla{
+  position: relative;
+  width: 15em;
+  height: 3em;
+
+}
+/*100*/
+#resultado{
+  position: absolute;
+  top: 0em;
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+  width: 100%;
+  height: 90%;
+  resize: none;
+  background-color: honeydew;
+  overflow-x: auto;
+  overflow-y: auto;
+}
+/*100*/
+#division,
+/*100*/
+#multiplicacion,
+/*100*/
+#menos,
+/*100*/
+#suma{
+  background-color: hotpink;
+}
+/*100*/
+#cero,
+/*100*/
+#uno,
+/*100*/
+#dos,
+/*100*/
+#tres,
+/*100*/
+#cuatro,
+/*100*/
+#cinco,
+/*100*/
+#seis,
+/*100*/
+#siete,
+/*100*/
+#ocho,
+/*100*/
+#nueve{
+  background-color: rgb(133, 115, 233);
+}

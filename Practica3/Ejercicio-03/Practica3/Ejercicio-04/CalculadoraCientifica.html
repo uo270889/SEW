@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Hugo Diaz Noriega UO270889">
+        <title>Calculadora Cientifica</title>
+        <link rel="stylesheet" type="text/css" href="CalculadoraCientifica.css"/>            
+    </head>
+    <body>  
+        <script src="../Ejercicio-03/CalculadoraBasica.js"></script>  
+        <script src="CalculadoraCientifica.js"></script>  
+        
+        <div class="calculadora">
+            <div id="pantalla">
+                <textarea disabled id="resultado"></textarea>
+            </div>
+            <div>
+                <button id="mc" onclick="calculadora.mc()">MC</button>
+                <button id="mr" onclick="calculadora.mr()">MR</button>
+                <button id="m+" onclick="calculadora.mM()">M+</button>
+                <button id="m-" onclick="calculadora.mm()">M-</button>
+                <button id="ms" onclick="calculadora.ms()">MS</button>
+            </div>
+            <div>                      
+                <button id="xC" onclick="calculadora.xc()">x^2</button>
+                <button id="xY" onclick="calculadora.xy()">x^y</button>
+                <button id="sin" onclick="calculadora.sin()">sin</button>
+                <button id="cos" onclick="calculadora.cos()">cos</button>
+                <button id="tan" onclick="calculadora.tan()">tan</button>
+            </div>
+            <div>
+                <button id="raiz" onclick="calculadora.raiz()">√</button>
+                <button id="10x" onclick="calculadora.diezx()">10^x</button>
+                <button id="log" onclick="calculadora.log()">log</button>
+                <button id="exp" onclick="calculadora.exp()">Exp</button>
+                <button id="mod" onclick="calculadora.mod()">Mod</button>
+            </div>
+            <div>
+                <button id="hyp" onclick="calculadora.hyp()">HYP</button>
+                <button id="flecha" onclick="calculadora.flecha()">1/a</button>
+                <button id="c" onclick="calculadora.borrar()">C</button>                   
+                <button id="quitar" onclick="calculadora.quitar()">Quitar</button>
+                <button id="division" onclick="calculadora.cociente()">-</button>    
+            </div>
+            <div>
+                <button id="pi" onclick="calculadora.pi()">PI</button>
+                <button id="siete" onclick="calculadora.siete()">7</button>
+                <button id="ocho" onclick="calculadora.ocho()">8</button>
+                <button id="nueve" onclick="calculadora.nueve()">9</button>
+                <button id="multiplicacion" onclick="calculadora.producto()">*</button>
+            </div>
+            <div>
+                <button id="factorial" onclick="calculadora.factorial()">n!</button>
+                <button id="cuatro" onclick="calculadora.cuatro()">4</button>
+                <button id="cinco" onclick="calculadora.cinco()">5</button>
+                <button id="seis" onclick="calculadora.seis()">6</button>
+                <button id="menos" onclick="calculadora.resta()">-</button>
+            </div>
+            <div>
+                <button id="masmenos" onclick="calculadora.masmenos()">+/-</button>
+                <button id="uno" onclick="calculadora.uno()">1</button>
+                <button id="dos" onclick="calculadora.dos()">2</button>
+                <button id="tres" onclick="calculadora.tres()">3</button>
+                <button id="suma" onclick="calculadora.suma()">+</button>
+            </div>
+            <div>
+                <button id="parA" onclick="calculadora.parentesisA()">(</button>
+                <button id="parC" onclick="calculadora.parentesisC()">)</button>
+                <button id="cero" onclick="calculadora.cero()">0</button>
+                <button id="punto" onclick="calculadora.punto()">.</button>
+                <button id="igual" onclick="calculadora.calcular()">=</button>
+            </div>
+        </div>              
+    </body>
+</html>

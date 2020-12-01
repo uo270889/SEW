@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Hugo Diaz Noriega UO270889">
+        <title>Calculadora Basica</title>
+        <link rel="stylesheet" type="text/css" href="CalculadoraBasica.css"/>            
+    </head>
+    <body>     
+        <script src="CalculadoraBasica.js"></script>           
+        <h1>CalculadoraBasica</h1>
+        <section class="calculadora">
+            <div id="pantalla">
+                <textarea disabled id="resultado"></textarea>
+            </div>
+            <div>
+                <button id="mrc" onclick="calculadora.mrc()">mrc</button>
+                <button id="m-" onclick="calculadora.mm()">m-</button>
+                <button id="m+" onclick="calculadora.mM()">m+</button>
+                <button id="division" onclick="calculadora.cociente()">/</button>
+            </div>
+            <div>
+                <button id="siete" onclick="calculadora.siete()">7</button>
+                <button id="ocho" onclick="calculadora.ocho()">8</button>
+                <button id="nueve" onclick="calculadora.nueve()">9</button>
+                <button id="multiplicacion" onclick="calculadora.producto()">*</button>
+            </div>
+            <div>
+                <button id="cuatro" onclick="calculadora.cuatro()">4</button>
+                <button id="cinco" onclick="calculadora.cinco()">5</button>
+                <button id="seis" onclick="calculadora.seis()">6</button>
+                <button id="menos" onclick="calculadora.resta()">-</button>
+            </div>
+            <div>
+                <button id="uno" onclick="calculadora.uno()">1</button>
+                <button id="dos" onclick="calculadora.dos()">2</button>
+                <button id="tres" onclick="calculadora.tres()">3</button>
+                <button id="suma" onclick="calculadora.suma()">+</button>
+            </div>
+            <div>
+                <button id="cero" onclick="calculadora.cero()">0</button>
+                <button id="punto" onclick="calculadora.punto()">.</button>
+                <button id="c" onclick="calculadora.borrar()">C</button>
+                <button id="igual" onclick="calculadora.calcular()">=</button>
+            </div>
+        </section>            
+    </body>
+</html>

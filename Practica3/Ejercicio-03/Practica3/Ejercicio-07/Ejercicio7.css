@@ -1,0 +1,44 @@
+table{
+    text-align: center;
+}
+table tr td{
+    text-align: center;
+    border: 0.150em solid rgb(12, 91, 194) ;
+}
+section table{
+    padding-left: 500px;
+    text-align: center;
+    margin: 10px;
+}
+body{
+    background-color: rgb(196, 196, 196);
+    color: black;
+}
+p{
+    margin: 10px;
+    text-align: center;
+}
+h1{
+    background-color: rgb(53, 197, 48);
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 40px 25px;
+    font-size: 300%;
+}
+h2{
+    background-color: rgb(76, 202, 240);
+    color: black;
+    text-align: center;
+    padding: 8px 25px;
+}
+h3,
+h4{
+    background-color: rgb(194, 141, 238);
+    color: black;
+    text-align: center;
+    padding: 3px 20px;
+}
+section{
+    text-align: center;
+}
