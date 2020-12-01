@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width">
+        <meta name="author" content="Hugo Diaz Noriega UO270889">
+        <title>Calculadora RPN</title>
+        <link rel="stylesheet" type="text/css" href="CalculadoraRPN.css"/>    
+    </head>
+    <body>    
+        <script src="CalculadoraRPN.js"></script>                
+        
+        <section class="calculadora">
+            <section id="pantalla">
+                <section id="resultado"></section>
+                <textarea disabled id="textZone"></textarea>
+            </section>
+            <section>
+                <button id="raiz" onclick="calculadora.raiz()">&#8730</button>   
+                <button id="exp" onclick="calculadora.e()">eˣ</button>
+                <button id="xC" onclick="calculadora.xcuadrado()">x^2</button>
+                <button id="retroceso" onclick="calculadora.retroceder()">&#x2190</button>
+            </section>
+            <section>
+                <button id="sin" onclick="calculadora.sin()">sin</button>
+                <button id="cos" onclick="calculadora.cos()">cos</button>
+                <button id="tan" onclick="calculadora.tan()">tan</button>
+                <button id="log" onclick="calculadora.log()">log</button>
+            </section>
+            <section>                      
+                <button id="asin" onclick="calculadora.asin()">aSin</button>
+                <button id="acos" onclick="calculadora.acos()">aCos</button>
+                <button id="atan" onclick="calculadora.atan()">aTan</button>
+                <button id="suma" onclick="calculadora.sumar()">&#10133</button>
+            </section>
+            <section>
+                <button id="siete" onclick="calculadora.siete()">7</button>
+                <button id="ocho" onclick="calculadora.ocho()">8</button>
+                <button id="nueve" onclick="calculadora.nueve()">9</button>
+                <button id="division" onclick="calculadora.cociente()">&#10135</button>
+            </section>
+            <section>
+                <button id="cuatro" onclick="calculadora.cuatro()">4</button>
+                <button id="cinco" onclick="calculadora.cinco()">5</button>
+                <button id="seis" onclick="calculadora.seis()">6</button>
+                <button id="multiplicacion" onclick="calculadora.producto()">&#10006</button>
+            </section>
+            <section>
+                <button id="uno" onclick="calculadora.uno()">1</button>
+                <button id="dos" onclick="calculadora.dos()">2</button>
+                <button id="tres" onclick="calculadora.tres()">3</button>
+                <button id="resta" onclick="calculadora.restar()">&#10134</button>
+            </section>
+            <section>
+                <button id="c" onclick="calculadora.borrar()">C</button>                   
+                <button id="punto" onclick="calculadora.punto()">.</button> 
+                <button id="cero" onclick="calculadora.cero()">0</button>                    
+                <button id="enter" onclick="calculadora.enter()">Enter</button>
+            </section>
+        </section>                  
+    </body>
+</html>

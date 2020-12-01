@@ -1,0 +1,47 @@
+body {
+    padding-top: 20px;
+    text-align: center;
+    background-color: rgb(159, 228, 142);
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(3, 11, 22);
+}
+
+h2 {
+    text-align: center;
+    color:  rgb(3, 11, 22);
+}
+
+h3 {
+    text-align: center;
+    color: rgb(3, 11, 22);
+}
+
+h4 {
+    text-align: center;
+    color: black;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+h1 a {
+    color: rgb(3, 11, 22);
+}
+
+h2 a {
+    color: rgb(3, 11, 22);
+}
+
+h3 a {
+    color:  rgb(3, 11, 22);
+}
+
+footer {
+    margin: 20px;
+}
