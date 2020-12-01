@@ -1,0 +1,74 @@
+/*010*/
+.calculadora{
+    display: grid;
+    margin: 0.125em;
+    padding: 1em;
+    background-color: rgb(45, 127, 141);
+    width: 18em;
+    height: 39.5em;
+    border-radius: 0.625em;
+  }
+  /*012*/
+  .calculadora button{
+    width: 3.5em;
+    height: 2.5em;
+    margin-right: 0.1em;
+    background-color: rgb(221, 141, 22);
+    color: white;
+  }
+  h1{
+    text-align: center;
+  }
+  #pantalla{
+    position: relative;
+    width: 17em;
+    height: 3em;
+  }
+
+  #textZone{
+    position: absolute;
+    bottom: 0em;
+    resize: none;
+    height: 90%;
+    width: 100%;
+    background-color: honeydew;
+    font-size: 1.5em;
+    overflow-x: auto;
+    overflow-y: auto;
+  }
+  /*100*/
+  #cero,
+  /*100*/
+  #uno,
+  /*100*/
+  #dos,
+  /*100*/
+  #tres,
+  /*100*/
+  #cuatro,
+  /*100*/
+  #cinco,
+  /*100*/
+  #seis,
+  /*100*/
+  #siete,
+  /*100*/
+  #ocho,
+  /*100*/
+  #nueve{
+    background-color: hotpink;
+  }
+
+  /*100*/
+  #lavavajillas,
+  /*100*/
+  #mano,
+  /*100*/
+  #lavadora,
+  /*100*/
+  #ducha{
+    height: 50%;
+    width: 30%;
+    background-color: rgb(7, 52, 201);
+  }
+  

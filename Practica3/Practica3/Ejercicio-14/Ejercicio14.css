@@ -1,0 +1,43 @@
+#a{
+    width: 400px;
+    height: 150px;
+    background-color: black;
+    border: 10px solid #000002;
+    text-align: left;
+}
+#qw{
+    text-align: center;
+}
+
+#borr{
+    width: 350px;
+    height: 80px;
+    padding: 10px;
+    border: 2px solid #000002;
+    text-align: center;
+}
+
+canvas{
+    background-color: rgb(245, 47, 47);
+}
+body{
+    background-color: rgb(150, 219, 213);
+}
+p{
+    font-family: verdana;
+    font-size: 20px;
+    text-align: left;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+section{
+    padding-left: 500px;
+}
+
+footer{
+    margin: 20px;
+}

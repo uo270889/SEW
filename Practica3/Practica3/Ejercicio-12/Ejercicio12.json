@@ -1,0 +1,40 @@
+{
+    "coord":{
+        "lon":-5.8459444,
+        "lat":43.3634472
+    },
+    "weather":[{
+        "id":200,
+        "main":"Drizzle",
+        "description": "Soleado",
+        "icon": "72h"
+    }],
+    "base": "stations",
+    "main":{
+        "temp":8.72,
+        "pressure": 900,
+        "humidity": 80,
+        "temp_min": 6,
+        "temp_max": 13
+    },
+    "visibility": 1500,
+    "wind":{
+        "speed": 10.2,
+        "deg": 172
+    },
+    "clouds":{
+        "all": 2
+    },
+    "dt": 2738940162,
+    "sys":{
+        "type": 1,
+        "id": 1672,
+        "country": "ES",
+        "sunrise":1239871234,
+        "sunset":12393451200
+    },
+    "timezone": 3600,
+    "id": 7354672,
+    "name": "Oviedo",
+    "cod": 72
+}

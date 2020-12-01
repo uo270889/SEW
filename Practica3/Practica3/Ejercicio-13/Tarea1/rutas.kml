@@ -1,0 +1,143 @@
+<kml xmlns="http://www.opengis.net/kml/2.2">
+   <Document>
+      <Folder>
+         <name>Abriendo Camino</name>
+         <description>Una experiencia indispensable para aquellos pequeños que quieran pasar 1 semana montando a caballo.</description>
+         <Placemark>
+            <name/>
+            <Point>
+               <coordinates>-6.084444444444444,43.1536111,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Dia 1</name>
+            <description/>
+            <Point>
+               <coordinates>-6.084722222222222,43.1425,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Dia 2</name>
+            <description/>
+            <Point>
+               <coordinates>-6.073055555555555,43.1433333,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Dia 3</name>
+            <description/>
+            <Point>
+               <coordinates>-6.1450000000000005,43.1588889,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+		 <Placemark>
+            <name>Dia 4</name>
+            <description/>
+            <Point>
+               <coordinates>-6.081944444444444,43.155,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+		 <Placemark>
+            <name>Dia 5</name>
+            <description/>
+            <Point>
+               <coordinates>-6.084444444444444,43.1536111,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Abriendo Camino</name>
+            <LineString>
+               <coordinates>-6.084444444444444,43.1536111,0	 -6.084722222222222,43.1425,0  -6.073055555555555,43.1433333,0	 -6.1450000000000005,43.1588889,0  -6.081944444444444,43.155,0	-6.084444444444444,43.1536111,0</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>Caballos Salvajes</name>
+         <description>Todas las rutas son de naturaleza con caballos enseñados para la monta desde los mas pequeños a los mas mayores, preparados para ser guiados por jinetes expertos como inexpertos, siempre acompañados por un monitor experto.</description>
+         <Placemark>
+            <name/>
+            <Point>
+               <coordinates>-6.163055555555556,43.5552778,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Subida a la sierra</name>
+            <description/>
+            <Point>
+               <coordinates>-6.256944444444445,43.1005556,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Llegada a la sierra</name>
+            <description/>
+            <Point>
+               <coordinates>-6.091111111111111,43.17027780,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Bajada de la sierra</name>
+            <description/>
+            <Point>
+               <coordinates>-5.995277777777778,43.3983333,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Caballos Salvajes</name>
+            <LineString>
+               <coordinates>-6.163055555555556,43.5552778,0 	-6.256944444444445,43.1005556,0 	-6.091111111111111,43.17027780,0	-5.995277777777778,43.3983333,0	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+      <Folder>
+         <name>De Santiago a Fisterra, el fin del mundo</name>
+         <description>Si sientes que quedarse en Santiago es quedarse a mitad de camino, continúa hasta donde durante siglos fue considerado el fin del mundo. En tres o cuatro etapas, según el itinerario que elijas, puedes aumentar los kilómetros, la experiencia y las vivencias en el camino de Santiago, ampliando tus horizontes en el “Camino a Fisterra”</description>
+         <Placemark>
+            <name/>
+            <Point>
+               <coordinates>-8.5463,42.8804,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Santiago-Negreira</name>
+            <description/>
+            <Point>
+               <coordinates>-8.805,42.911,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Negreira-Olveiroa</name>
+            <description/>
+            <Point>
+               <coordinates>-9.038055555555555,42.9658333,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>Olveiroa-Fisterra</name>
+            <description/>
+            <Point>
+               <coordinates>-9.256944444444445,42.9238889,0</coordinates>
+               <altitudeMode>absolute</altitudeMode>
+            </Point>
+         </Placemark>
+         <Placemark>
+            <name>De Santiago a Fisterra, el fin del mundo</name>
+            <LineString>
+               <coordinates>-8.5463,42.8804,0	-8.805,42.911,0	 -9.038055555555555,42.9658333,0	 -9.256944444444445,42.9238889,0	</coordinates>
+            </LineString>
+         </Placemark>
+      </Folder>
+   </Document>
+</kml>

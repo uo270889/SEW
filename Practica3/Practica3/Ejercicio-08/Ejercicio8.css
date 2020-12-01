@@ -1,0 +1,47 @@
+body {
+    padding-top: 20px;
+    text-align: center;
+    background-color: lightblue;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+h3 {
+    text-align: center;
+    color: blue;
+}
+
+h4 {
+    text-align: center;
+    color: black;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+h1 a {
+    color: blue;
+}
+
+h2 a {
+    color: blue;
+}
+
+h3 a {
+    color: blue;
+}
+
+footer {
+    margin: 20px;
+}

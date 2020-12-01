@@ -1,0 +1,11 @@
+img {
+    height: 200px;
+    float: left;
+}
+footer{
+    margin-top:2em;
+}
+footer a img{
+    height:31px; 
+    width:88px;
+}

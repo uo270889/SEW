@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Hugo Diaz Noriega UO270889">
+        <meta name="descripcion" content="Geolocalizador personal y visualizacion en mapa estatico"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ejercicio 11-6</title>
+        <link rel="stylesheet" type="text/css" href="Ejercicio11.css"/> 
+        <script src="Ejercicio11.js"></script>        
+    </head>
+    <body>     
+        <h1>Geolocalizacion personal</h1> 
+        <section id="posicionamiento">
+            <h2>Ubicacion</h2>
+            <button id="geolocalizacion" onclick="geo.mostrar('ubicacion')">Mostrar coordenadas</button>
+        </section>     
+        <p id="ubicacion"></p>  
+        <section id="mapa">
+            <h2>Mapa</h2>
+            <button id="mapeado" onclick="geo.getMapa('ubicacion2')">Abrir mapa</button>
+        </section> 
+        <p id="ubicacion2"></p>                           
+        <footer><address>uo270889@uniovi.es</address></footer>
+    </body>
+</html>

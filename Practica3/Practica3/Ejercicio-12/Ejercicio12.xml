@@ -1,0 +1,217 @@
+?xml version="1.0" encoding="utf-8"?>
+<rutas>
+    <ruta nombre="Abriendo Camino" tipo="A caballo">
+        <dificultad>Facil</dificultad>
+        <fechaInicio>01/06/2021</fechaInicio>
+        <horaInicio>11:00</horaInicio>
+        <duracion>7 dias</duracion>   
+        <agencia>Cuadra Sobia</agencia>
+        <descripcion>Una experiencia indispensable para aquellos pequeños que quieran pasar 1 semana montando a caballo.</descripcion>
+        <personasAdecuadas>Principiantes</personasAdecuadas>
+        <lugarInicio>Teverga</lugarInicio>
+        <direccionInicio>Berrueño, 13, 33111, Asturias</direccionInicio>
+        <coordenadas>
+            <longitud>-6.084444444444444</longitud>
+            <latitud>43.1536111</latitud>
+            <altitud>618m</altitud>
+        </coordenadas>
+        <referencias>
+            <referencia>https://www.cuadrasobia.com/descargas/talleres-equitacion-alpina.pdf</referencia>          
+            <referencia>https://es.db-city.com/Espa%C3%B1a--Principado-de-Asturias--Asturias--Teverga</referencia>
+            <referencia>https://www.cuadrasobia.com/rutas.html</referencia>
+        </referencias>
+        <recomendacion>9.6</recomendacion>
+        <hitos>
+            <hito nombreHito = "Dia 1">
+                <descripcionHito>Los participantes llegan a Teverga y se reúnen con la organización para realizar las presentaciones correspondientes y formar los grupos.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-6.084444444444444</longitudH>
+                    <latitudH>43.1536111</latitudH>
+                    <altitudH>618m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>Activiaddes diarias</tiempoHito>
+            </hito>
+            <hito nombreHito = "Dia 2">
+                <descripcionHito>Subida por el reguero de Pumariega y actividades teorico-ptácticas, y juegos</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-6.084722222222222</longitudH>
+                    <latitudH>43.1425</latitudH>
+                    <altitudH>509m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>Activiaddes diarias</tiempoHito>
+            </hito>
+            <hito nombreHito = "Dia 3">
+                <descripcionHito>Llegada a Vigidel monte a través de monte, a la llegada visita del pueblo acampada y juegos</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-6.073055555555555</longitudH>
+                    <latitudH>43.1433333</latitudH>
+                    <altitudH>863m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>Activiaddes diarias</tiempoHito>
+            </hito>
+            <hito nombreHito = "Dia 4">
+                <descripcionHito> Llegada al punto mas alto de la ruta y acampada con fogata y juegos nocturnos.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-6.1450000000000005</longitudH>
+                    <latitudH>43.1588889</latitudH>
+                    <altitudH>949m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>Activiaddes diarias</tiempoHito>
+            </hito>
+            <hito nombreHito = "Dia 5">
+                <descripcionHito>Bajada desde la montaña a el pueblo vecino y visita del peublo.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-6.104444444444444</longitudH>
+                    <latitudH>43.1591667</latitudH>
+                    <altitudH>519m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>Activiaddes diarias</tiempoHito>
+            </hito>
+            <hito nombreHito = "Dia 6">
+                <descripcionHito>Ultima acampada, llegada a posicion de la organizacion y fiesta de despedida</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-6.081944444444444</longitudH>
+                    <latitudH>43.155</latitudH>
+                    <altitudH>707m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>Activiaddes diarias</tiempoHito>
+            </hito>            
+            <hito nombreHito = "Dia 7">
+                <descripcionHito>LLegada al origen. Despedida de los participantes.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-6.084444444444444</longitudH>
+                    <latitudH>43.1536111</latitudH>
+                    <altitudH>618m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>Activiaddes diarias</tiempoHito>
+            </hito>
+        </hitos>
+    </ruta>
+
+
+
+    <ruta nombre="Caballos Salvajes" tipo="A caballo">
+        <dificultad>Normal</dificultad>
+        <fechaInicio>04/05/2021</fechaInicio>
+        <horaInicio>10:00</horaInicio>
+        <duracion>6 horas</duracion>
+        <agencia>Aventuras a caballo</agencia>
+        <descripcion>Todas las rutas son de naturaleza con caballos enseñados para la monta desde los mas pequeños a los mas mayores, preparados para ser guiados por jinetes expertos como inexpertos, siempre acompañados por un monitor experto.</descripcion>
+        <personasAdecuadas>Cualquier persona</personasAdecuadas>
+        <lugarInicio>Lamuño</lugarInicio>
+        <direccionInicio>Km. 2, CU-6, 33155 Lamuño, Asturias</direccionInicio>
+        <coordenadas>
+            <longitud>-6.163055555555556</longitud>
+            <latitud>43.5552778</latitud>
+            <altitud>125</altitud>           
+        </coordenadas>
+        <referencias>
+            <referencia>http://www.aventurasacaballo.com/</referencia>
+            <referencia>https://www.antipodas.net/coordenadaspais/espana/montana-siete-fuentes.php</referencia>
+            <referencia>http://www.aventurasacaballo.com/</referencia>
+        </referencias>
+        <recomendacion>9.2</recomendacion>
+        <hitos>
+            <hito nombreHito ="Subida a la sierra">
+                <descripcionHito>Subiremos a la sierra de las siete fuentes a visitar sus paramos donde galoparemos con las manadas de caballos salvajes.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-6.256944444444445</longitudH>
+                    <latitudH>43.1005556</latitudH>
+                    <altitudH>877m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>4 horas</tiempoHito>
+                <fotos>
+                    <foto>aventurasACaballoBosque.jpg</foto>
+                </fotos>
+            </hito>
+
+            <hito nombreHito ="Llegada a la sierra">
+                <descripcionHito>Daremos un paseo por la cima para que los clientes puedan apreciar el paisaje.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-6.091111111111111</longitudH>
+                    <latitudH>43.17027780</latitudH>
+                    <altitudH>611m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>2 horas</tiempoHito>
+                <fotos>
+                    <foto>aventurasACaballoCaballos.jpg</foto>
+                </fotos>
+            </hito>
+
+            <hito nombreHito ="Bajada de la sierra">
+                <descripcionHito>Volveremos pasando por los pueblos de los vaqueiros de alzada y siguiendo el viejo camino real pasaremos por San Martin camino de vuelta a casa.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-5.995277777777778</longitudH>
+                    <latitudH>43.3983333</latitudH>
+                    <altitudH>120</altitudH>
+                </coordenadasHito>
+                <tiempoHito>2 horas</tiempoHito>
+                <fotos>
+                    <foto>aventurasACaballoMonte.jpg</foto>
+                </fotos>
+            </hito>
+        </hitos>
+    </ruta> 
+
+
+    <ruta nombre="De Santiago a Fisterra, el fin del mundo">
+        <dificultad>Intermedia</dificultad>
+        <fechaInicio>23/05/2021</fechaInicio>
+        <horaInicio>10:00</horaInicio>
+        <duracion>3 dias</duracion>
+        <agencia>Equusfera</agencia>
+        <descripcion>Si sientes que quedarse en Santiago es quedarse a mitad de camino, continúa hasta donde durante siglos fue considerado el fin del mundo. En tres o cuatro etapas, según el itinerario que elijas, puedes aumentar los kilómetros, la experiencia y las vivencias en el camino de Santiago, ampliando tus horizontes en el “Camino a Fisterra”.</descripcion>
+        <personasAdecuadas>mayores de 10</personasAdecuadas>
+        <lugarInicio>Santiago de compostela</lugarInicio>
+        <direccionInicio>15701 Santiago de Compostela, Galicia</direccionInicio>
+        <coordenadas>
+            <longitud>-8.546944444444444</longitud>
+            <latitud>42.9083333</latitud>
+            <altitud>195m</altitud>
+        </coordenadas>
+        <referencias>
+            <referencia>https://equusfera.com/index.php/es/rutas-largas/camino-a-finisterre</referencia>
+            <referencia>https://www.google.com/maps/place/Rutas+a+caballo+guiadas+en+Taramundi+Equusfera/@43.3486748,-7.1163108,12.29z/data=!4m8!1m2!2m1!1srutas+a+caballo+asturias!3m4!1s0x0:0x1d98aac25cb9f03d!8m2!3d43.3563893!4d-7.106781</referencia>
+            <referencia>https://www.antipodas.net/coordenadaspais/espana/negreira.php</referencia>
+        </referencias>
+        <recomendacion>9.8</recomendacion>
+        <hitos>
+            <hito nombreHito ="Santiago-Negreira">
+                <descripcionHito>La primera etapa es rápida y cómoda. Aunque la entrada en Santiago es dura, la salida es mucho más liviana. Esta jornada transcurre entre prados y montes de pinos y eucaliptos; presenta algún que otro moderado desnivel, como el del Alto do Mar de Ovellas en el que alcanzamos 210 metros de desnivel en apenas 2 kilómetros. Abandonamos la capital gallega partiendo de la espectacular plaza de Obradoiro por la calle que forman el Hospital de los Reyes Católicos y el Palacio de Rajoi. El camino desciende, ya fuera de la ciudad, hacia el valle por donde discurre el río Sar. Por laberintos de caminos ascendemos poco a poco, pasando por pequeñas aldeas, hasta el Alto do Vento, desde donde iniciaremos la bajada hacia Aguapesada. Población tras la cual volveremos a ascender para atravesar la montaña y descender de nuevo en busca del río Mazeira. Y antes de llegar al final de etapa, atravesaremos la población de Barca. Nuestro destino, Negreira, no tarda en aparecer a nuestra vista.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-8.805</longitudH>
+                    <latitudH>42.911</latitudH>
+                    <altitudH>306m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>27.36Km</tiempoHito>
+                <fotos>
+                    <foto>caminoAFinisterreCampo.jpg</foto>
+                </fotos>
+            </hito>
+            <hito nombreHito ="Negreira-Olveiroa">
+                <descripcionHito>El inicio de la penúltima etapa antes de llegar a Fisterra comienza cruzando el río Barcala a las afueras de Negreira. La jornada se inicia remontando la colina donde se encuentra la Iglesia de San Xulian de Negreira, donde tomaremos una senda a la izquierda para superar la subida y alcanzar Zas. A lo largo de esta ruta se coincide, en diversos puntos, con el antiguo camino real de Fisterra. Después de Zas y sin tener que hacer mucho esfuerzo, ya que la cantidad de desniveles es menor que la etapa anterior, atravesamos pequeñas aldeas: A Pena, Vilaserio y Maroñas. A partir de este último núcleo de población tendremos que superar una elevación del terreno para pronto descender hacia Crozón, Ponte Olveira y Olveiroa, donde descansaremos y cogeremos fuerzas para afrontar el último paso para alcanzar el “Fin del Mundo”.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-9.038055555555555</longitudH>
+                    <latitudH>42.9658333</latitudH>
+                    <altitudH>272m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>32.73Km</tiempoHito>
+                <fotos>
+                    <foto>caminoAFinisterreCallejon.jpg</foto>
+                </fotos> 
+            </hito>
+            <hito nombreHito ="Olveiroa-Fisterra">
+            <descripcionHito>Último día, última etapa, último punto antes de los límites del mundo. La aventura termina en Fisterra discurriendo gran parte de la ruta próximo a la Costa da Morte, cuyo paisaje dejo ya impresionados a los romanos. La sensación que dejará el recorrido de Olveiroa hasta Fisterra será inolvidable. La primera parte es en ascenso hacia Hospital, algo inhóspita y árida, donde la visión de las humeantes chimeneas de la fábrica de minerales que se halla en lo alto de Hospital, resulta un tanto extraña; pero la segunda parte, ya en descenso, hacia la localidad de Cee, es más agradable, y atractiva, con el mar al alcance de la mano y de los sentidos del peregrino en busca del “Fin del Mundo”. Disfruta de estos últimos kilómetros atravesando Cee, Corcubión, Sardiñeiro y la propia Fisterra, antes de alcanzar el fin de la etapa, del camino y el “Fin de la Tierra”.</descripcionHito>
+                <coordenadasHito>
+                    <longitudH>-9.256944444444445</longitudH>
+                    <latitudH>42.9238889</latitudH>
+                    <altitudH>24m</altitudH>
+                </coordenadasHito>
+                <tiempoHito>34.9Km</tiempoHito>   
+                <fotos>
+                    <foto>caminoAFinisterreBosque.jpg</foto>
+                </fotos>            
+            </hito>
+        </hitos>
+    </ruta>    
+</rutas>
