@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Hugo Diaz Noriega UO270889">
+        <meta name="descripcion" content="Ejercicio 7"/>
+        <title>Ejercicio 7</title>
+        <link rel="stylesheet" type="text/css" href="Ejercicio7.css"/> 
+        <script src="http://code.jquery.com/jquery3.3.1.min.js"></script>  
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>  
+        <script src="Ejercicio7.js"></script>   
+    </head>
+    <body>    
+        <main>
+            <header>
+                <h1>Sistema solar</h1>
+                <p id="modificable">El sistema solar es el sistema planetario en el que se encuentran la Tierra y otros objetos astronómicos que giran directa o indirectamente en una órbita alrededor de una única estrella conocida como el Sol.</p>
+                <button id="espanol" onclick="ejercicio.espanol()">Modificar texto a Castellano</button>
+                <button id="ingles" onclick="ejercicio.ingles()">Modificar texto a Ingles</button>
+
+                <h2>Planetas</h2>
+                <h3>Mercurio</h3>
+                <p>Mercurio es el planeta del sistema solar más próximo al Sol y el más pequeño. Forma parte de los denominados planetas interiores o terrestres y carece de satélites naturales.</p>
+                <h3>Venus</h3>
+                <p>Venus es el segundo planeta del sistema solar. Al igual que Mercurio, carece de satélites naturales. Recibe su nombre en honor a Venus, la diosa romana del amor. Se trata de un planeta de tipo rocoso y terrestre.</p>
+                <h3>Tierra</h3>
+                <p>La Tierra es un planeta del sistema solar que gira alrededor del Sol en la tercera órbita más interna. Es el más denso y el quinto mayor de los ocho planetas del sistema solar. También es el mayor de los cuatro terrestres o rocosos.</p>
+                <h3>Marte</h3>
+                <p>Marte es el cuarto planeta en orden de distancia al Sol y el segundo más pequeño del sistema solar. Recibió su nombre en homenaje al dios de la guerra de la mitología romana, y también es conocido como el planeta rojo debido a la apariencia rojiza​ que le confiere el óxido de hierro predominante en su superficie.</p>
+                <h3>Jupiter</h3>
+                <p>Júpiter es el quinto planeta del sistema solar. Forma parte de los denominados planetas exteriores o gaseosos. Recibe su nombre del dios romano Júpiter. Es, además, después del Sol, el mayor cuerpo celeste del sistema solar, con una masa casi dos veces y media la de los demás planetas juntos.</p>
+                <h3>Saturno</h3>
+                <p>Saturno es el sexto planeta del sistema solar contando desde el Sol y el único con un sistema de anillos visible desde la Tierra. Su nombre proviene del dios romano Saturno. Forma parte de los denominados planetas exteriores o gaseosos. El aspecto más característico de Saturno son sus brillantes anillos.</p>
+                <h3>Urano</h3>
+                <p>Urano es el séptimo planeta del sistema solar. Se llama así en honor de la divinidad griega del cielo Urano. Aunque es detectable a simple vista en el cielo nocturno, no fue catalogado como planeta por los astrónomos de la antigüedad debido a su escasa luminosidad y a la lentitud de su órbita.</p>
+                <h3>Neptuno</h3>
+                <p>Neptuno es el octavo planeta en distancia respecto al Sol y el más lejano del sistema solar. Forma parte de los denominados planetas exteriores, y dentro de estos, es uno de los gigantes helados, y es el primero que fue descubierto gracias a predicciones matemáticas. Su nombre fue puesto en honor al dios romano del mar Neptuno.</p>
+                <h4>Otros planetas</h4>
+                <p id="añadido"></p>
+            </header>
+            <section>
+                <h2>Caracteristicas</h2>
+                <table>
+                    <tr>
+                        <th>Planeta</th>
+                        <th>Diametro</th>
+                        <th>Estructura</th>
+                        <th>Nº Satelites</th>
+                    </tr>
+                    <tr>
+                        <td>Mercurio</td>
+                        <td>4.879,4 km</td>
+                        <td>Rocosa</td>
+                        <td>0</td>
+                    </tr>
+                    <tr>
+                        <td>Venus</td>
+                        <td>12.103,6 km</td>
+                        <td>Rocosa</td>
+                        <td>0</td>
+                    </tr>
+                    <tr>
+                        <td>Tierra</td>
+                        <td>12.756 km</td>
+                        <td>Rocosa</td>
+                        <td>1</td>
+                    </tr>
+                    <tr>
+                        <td>Marte</td>
+                        <td>6.794,4 km</td>
+                        <td>Rocosa</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>Jupiter</td>
+                        <td>142.984 km</td>
+                        <td>Gaseosa</td>
+                        <td>79</td>
+                    </tr>
+                    <tr>
+                        <td>Saturno</td>
+                        <td>120.536 km</td>
+                        <td>Gaseosa</td>
+                        <td>200</td>
+                    </tr>
+                    <tr>
+                        <td>Urano</td>
+                        <td>51.118 km</td>
+                        <td>Gaseosa</td>
+                        <td>27</td>
+                    </tr>
+                    <tr>
+                        <td>Neptuno</td>
+                        <td>49.572 km</td>
+                        <td>Gaseosa</td>
+                        <td>14</td>
+                    </tr>
+                </table>
+            </section>
+            <button id="ocultar" onclick="ejercicio.ocultar()">Ocultar el texto</button>
+            <button id="mostrar" onclick="ejercicio.mostrar()">Mostrar el texto</button>
+            <button id="añadir" onclick="ejercicio.añadir()">Añadir planeta</button>
+            <button id="eliminar" onclick="ejercicio.eliminar()">Eliminar planeta</button>
+            <button id="recorrer" onclick="ejercicio.recorrer()">Recorrer los elementos</button>
+            <button id="sumar" onclick="ejercicio.sumar()">Contar filas y columnas</button>
+        </main>                                
+    </body>
+</html>

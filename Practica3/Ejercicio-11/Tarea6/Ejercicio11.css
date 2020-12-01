@@ -1,0 +1,30 @@
+p {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+[type=button] {
+    background-color: gray;
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+
+body {
+    background-color: rgb(241, 204, 229);
+}
+main {
+    height: 500px;
+}
+footer {
+    margin: 20px;
+}
