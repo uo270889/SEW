@@ -16,7 +16,8 @@ class Ejercicio7{
         $("p").show();
     }
     añadir(){
-        $("#añadido").append("Se añade un planeta nuevo \n");    
+        $("#añadido").append("<h3>Otros planetas</h3> \n");
+        $("#añadido").append("Se añade un planeta nuevo \n");      
     }
     eliminar(){
         $("#añadido").remove();
