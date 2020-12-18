@@ -1,0 +1,42 @@
+/*010*/
+body{
+  color: black;
+  background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:15px;
+  align-items: center;
+}
+input[type="submit"] {
+  padding: 10px;
+  font-weight: 600;
+  font-size: 14px;
+  color: #ffffff;
+  background-color: rgb(47, 62, 199);
+  border-radius: 6px;
+  border: 2px solid #010738;
+   width:80px;
+}
+input[type="text"] {
+  width:325px;
+  height: 30px;
+  border: 2px solid;  
+}
+form {
+  background-color: #cd7cd4;
+  padding: 20px;
+  width: 340px;
+  border: 3px solid;
+}
+ h1{
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#calculadora{
+  width:330px;
+  height: 30px;
+  border: 2px solid;
+}
+#pila{
+  width:330px;
+  height: 100px;
+  border: 2px solid;
+}

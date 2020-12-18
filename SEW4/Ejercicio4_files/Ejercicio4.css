@@ -1,0 +1,15 @@
+p{
+    color:gray;
+}
+code{
+    text-align:left;
+    color:blue;
+}
+footer{
+    margin-top:2em;
+}
+footer a img{
+    height:31px; 
+    width:88px;
+}
+
